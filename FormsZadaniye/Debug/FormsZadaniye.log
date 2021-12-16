@@ -1,0 +1,10 @@
+﻿  MyForm.cpp
+C:\Users\grzeg\source\repos\FormsZadaniye\MyForm1.h(270,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\grzeg\source\repos\FormsZadaniye\MyForm1.h(267,14): warning C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\grzeg\source\repos\FormsZadaniye\MyForm.cpp(6,32): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+  MyForm1.cpp
+C:\Users\grzeg\source\repos\FormsZadaniye\MyForm1.h(270,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\grzeg\source\repos\FormsZadaniye\MyForm1.h(267,14): warning C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Создание кода...
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  FormsZadaniye.vcxproj -> C:\Users\grzeg\source\repos\FormsZadaniye\Debug\FormsZadaniye.exe

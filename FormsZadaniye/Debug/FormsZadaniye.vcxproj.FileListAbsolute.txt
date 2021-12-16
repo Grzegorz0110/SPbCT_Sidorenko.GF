@@ -1,0 +1,5 @@
+C:\Users\grzeg\source\repos\FormsZadaniye\Debug\FormsZadaniye.vcxproj.AssemblyReference.cache
+C:\Users\grzeg\source\repos\FormsZadaniye\Debug\FormsZadaniye.MyForm.resources
+C:\Users\grzeg\source\repos\FormsZadaniye\Debug\FormsZadaniye.vcxproj.GenerateResource.cache
+C:\Users\grzeg\source\repos\FormsZadaniye\Debug\FormsZadaniye.exe
+C:\Users\grzeg\source\repos\FormsZadaniye\Debug\FormsZadaniye.MyForm1.resources
